@@ -1,5 +1,8 @@
 # Angular Capacitor Project
 
+Application Screen -
+![Application Page](https://github.com/arjunkhetia/Angular-Capacitor-Project/blob/main/src/assets/application.png "Application Page")
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
 
 ## Development server
